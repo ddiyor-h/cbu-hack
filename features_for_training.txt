@@ -1,0 +1,105 @@
+application_hour
+application_day_of_week
+account_open_year
+num_login_sessions
+num_customer_service_calls
+has_mobile_app
+paperless_billing
+age
+annual_income
+employment_length
+num_dependents
+monthly_income
+existing_monthly_debt
+monthly_payment
+debt_to_income_ratio
+debt_service_ratio
+payment_to_income_ratio
+credit_utilization
+revolving_balance
+available_credit
+annual_debt_payment
+loan_to_annual_income
+total_debt_amount
+credit_score
+num_credit_accounts
+oldest_credit_line_age
+oldest_account_age_months
+total_credit_limit
+num_delinquencies_2yrs
+num_inquiries_6mo
+recent_inquiry_count
+num_public_records
+num_collections
+account_diversity_index
+loan_amount
+loan_term
+interest_rate
+loan_to_value_ratio
+regional_unemployment_rate
+regional_median_income
+regional_median_rent
+housing_price_index
+cost_of_living_index
+previous_zip_code
+total_debt_to_income
+revolving_to_income
+payment_burden
+logins_per_year
+service_calls_per_year
+account_age_years
+debt_service_coverage
+available_credit_after_loan
+income_vs_regional
+income_per_dependent
+combined_risk_score
+credit_capacity
+preferred_contact_Mail
+preferred_contact_Phone
+account_status_code_ACT-1
+account_status_code_ACT-2
+account_status_code_ACT-3
+account_status_code_ACTIVE
+employment_type_Contractor
+employment_type_Ft
+employment_type_Full Time
+employment_type_Fulltime
+employment_type_Part Time
+employment_type_Pt
+employment_type_Self Emp
+employment_type_Self Employed
+education_Bachelor
+education_Graduate
+education_High School
+education_Some College
+marital_status_Married
+marital_status_Single
+loan_purpose_Home Improvement
+loan_purpose_Home Purchase
+loan_purpose_Major Purchase
+loan_purpose_Medical
+loan_purpose_Other
+loan_purpose_Refinance
+loan_purpose_Revolving Credit
+origination_channel_Broker
+origination_channel_Direct Mail
+origination_channel_Online
+credit_util_category_low
+credit_util_category_medium
+age_group_26-35
+age_group_36-45
+age_group_46-55
+age_group_55+
+employment_stability_medium
+employment_stability_new
+employment_stability_short
+application_time_of_day_evening
+application_time_of_day_morning
+application_time_of_day_night
+referral_code_freq
+credit_usage_amount_freq
+total_monthly_debt_payment_freq
+monthly_free_cash_flow_freq
+loan_type_freq
+marketing_campaign_freq
+state_freq

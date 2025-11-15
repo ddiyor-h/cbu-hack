@@ -1,0 +1,181 @@
+feature,importance
+credit_score_squared,4.3636219926787225
+credit_score_sqrt,3.671289228836509
+income_vs_regional_div_debt_service_ratio,3.6422127376149698
+loan_type_freq,3.1990048028680786
+num_credit_accounts,3.183356591080307
+credit_score,2.7762390263569263
+credit_score_log,2.4948155893066404
+annual_income_X_age,2.334997635664052
+combined_risk_score,2.1954776802664866
+regional_unemployment_rate,1.963076771667297
+age_squared,1.8757003770055467
+age_cubed,1.714301114049144
+credit_score_X_annual_income,1.6279386935129008
+payment_burden,1.5778524538225078
+debt_service_coverage,1.5760032382897082
+annual_debt_payment,1.5692535375225363
+total_debt_to_income,1.4887123227637136
+age,1.4700553383736092
+credit_utilization,1.447204002864612
+debt_burden_score,1.4442356283109938
+age_sqrt,1.384642094297141
+credit_utilization_div_revolving_balance,1.3465905212857188
+debt_service_ratio_X_payment_to_income_ratio,1.3143065303440884
+credit_score_div_debt_to_income_ratio,1.270940664960906
+ratio_revolving_balance_to_available_credit,1.2567431475963224
+payment_to_income_ratio_div_total_debt_to_income,1.2119692144909668
+available_credit,1.1824762207026056
+ratio_total_debt_amount_to_annual_income,1.1324749673617356
+payment_to_income_ratio,1.115774546124213
+monthly_income_log,1.1152708979984423
+monthly_income_squared,1.0983946816117094
+num_public_records,1.0981643549001938
+payment_features_sum,0.8946723322014583
+annual_income_log,0.8853774307661966
+debt_service_ratio_X_payment_burden,0.8512803121621687
+revolving_balance,0.8506182910681963
+income_vs_regional_sqrt,0.8449868767715205
+revolving_to_income,0.8394463746622791
+debt_service_ratio,0.8286452746246885
+income_vs_regional_cubed,0.8279973524073283
+credit_utilization_X_revolving_balance,0.8236131288371479
+credit_util_category,0.8058764690067736
+account_diversity_index,0.7594480734176189
+income_vs_regional_log,0.7590929209994659
+debt_features_std,0.7572888257586244
+available_credit_after_loan,0.7527754368742307
+age_group_36-45,0.7515685561362624
+income_per_dependent,0.7476701317349883
+income_vs_regional,0.7437145570284888
+income_vs_regional_X_debt_service_ratio,0.685901967245552
+state_freq,0.6746765349978303
+debt_service_ratio_div_payment_to_income_ratio,0.6732283581728591
+total_credit_limit,0.6397229725981338
+ratio_existing_monthly_debt_to_monthly_income,0.6295604885355777
+num_delinquencies_2yrs_div_credit_score,0.6280207049716207
+age_log,0.6257707889251595
+credit_score_X_debt_to_income_ratio,0.6185786172696185
+num_public_records_has_value,0.6184936827223839
+service_calls_per_year,0.6071026189729509
+loan_to_annual_income,0.6014683015796741
+loan_to_value_ratio,0.5746688834057044
+payment_features_mean,0.5669794018265439
+monthly_income_sqrt,0.5413168648359523
+payment_to_income_ratio_X_total_debt_to_income,0.5392744616079884
+annual_income_squared,0.5388976403683748
+loan_amount,0.5216603861751116
+credit_score_div_annual_income,0.5177089036929725
+loan_term,0.5126655913658961
+debt_service_ratio_div_payment_burden,0.5098353883908832
+num_login_sessions,0.49140792657231047
+oldest_credit_line_age,0.4777468455359032
+cost_of_living_index,0.4409851743829155
+total_debt_amount,0.4338461365927099
+ratio_monthly_payment_to_monthly_income,0.42731152719104265
+num_dependents,0.4213467226972706
+education_Graduate,0.41063881921421796
+annual_income_sqrt,0.3912791712619896
+existing_monthly_debt,0.38966465563167024
+debt_to_income_ratio,0.3876114156549684
+monthly_payment,0.3638369857948354
+origination_channel_Direct Mail,0.3583198536540191
+previous_zip_code,0.34765045222435004
+num_delinquencies_2yrs,0.3367686458018256
+logins_per_year,0.33387975934177255
+age_X_employment_length,0.32575503113813753
+customer_ref,0.32495260076801885
+employment_length,0.31588095390231347
+monthly_income,0.3132689477409319
+application_day_of_week,0.31026963012275
+regional_median_income,0.28680874090900244
+account_age_years,0.28101916525635134
+interest_rate,0.27638599291856
+application_id,0.27414094998930777
+income_vs_regional_squared,0.26232385949692266
+credit_util_category_low,0.2581721064499429
+employment_type_Part Time_has_value,0.2540476081647727
+application_hour,0.2461796807687699
+account_open_year,0.2250482181387809
+regional_median_rent,0.22446454771791283
+annual_income,0.2163293669652064
+loan_purpose_Home Purchase,0.21343184061776294
+debt_features_mean,0.20508188552369228
+num_delinquencies_2yrs_X_credit_score,0.20336150033785916
+age_group_46-55,0.20180087565479585
+debt_features_max,0.1998951837828235
+loan_purpose_Revolving Credit,0.19174142474944975
+housing_price_index,0.18997399966088213
+num_customer_service_calls,0.18931329517315826
+preferred_contact_Phone_has_value,0.18067434749985328
+recent_inquiry_count,0.16986096602762
+num_inquiries_6mo,0.16821758731647793
+loan_officer_id,0.15337871453076646
+credit_capacity,0.15046784602583743
+oldest_account_age_months,0.14567530491798736
+age_group_26-35,0.14168597943603692
+education_High School,0.14123711559867472
+account_status_code_ACTIVE_has_value,0.11239811099938864
+income_vs_age_expected,0.10600690622680674
+annual_income_div_age,0.10073278854626962
+education_Bachelor,0.09553593321026344
+num_collections,0.0884147028185176
+account_status_code_ACT-2,0.08603293174670919
+loan_to_value_ratio_has_value,0.07489071439073125
+age_group_55+,0.07122411261523262
+employment_type_Ft_has_value,0.06799077714469332
+referral_code_freq,0.058479672580281424
+preferred_contact_Mail,0.05289783587659533
+employment_type_Pt_has_value,0.03822864653124632
+loan_purpose_Major Purchase,0.03443951684690672
+loan_purpose_Other,0.030049017695307406
+employment_type_Self Emp_has_value,0.026859089401786076
+employment_type_Pt,0.009978377868579877
+paperless_billing,0.0
+has_mobile_app,0.0
+employment_type_Full Time,0.0
+employment_type_Ft,0.0
+account_status_code_ACT-3,0.0
+account_status_code_ACT-1,0.0
+preferred_contact_Phone,0.0
+employment_type_Self Emp,0.0
+employment_type_Self Employed,0.0
+employment_type_Fulltime,0.0
+employment_type_Contractor,0.0
+account_status_code_ACTIVE,0.0
+loan_purpose_Home Improvement,0.0
+marital_status_Single,0.0
+marital_status_Married,0.0
+loan_purpose_Medical,0.0
+application_time_of_day_night,0.0
+origination_channel_Online,0.0
+loan_purpose_Refinance,0.0
+employment_stability_medium,0.0
+employment_stability_new,0.0
+employment_stability_short,0.0
+application_time_of_day_evening,0.0
+origination_channel_Broker,0.0
+credit_util_category_medium,0.0
+application_time_of_day_morning,0.0
+employment_type_Part Time,0.0
+education_Some College,0.0
+employment_type_Contractor_binned,0.0
+employment_type_Part Time_binned,0.0
+employment_type_Pt_binned,0.0
+employment_stability_new_binned,0.0
+loan_purpose_Major Purchase_binned,0.0
+num_public_records_binned,0.0
+loan_purpose_Home Improvement_binned,0.0
+num_collections_binned,0.0
+employment_type_Full Time_has_value,0.0
+origination_channel_Direct Mail_binned,0.0
+preferred_contact_Mail_has_value,0.0
+account_status_code_ACT-1_has_value,0.0
+loan_purpose_Other_binned,0.0
+employment_type_Fulltime_has_value,0.0
+account_status_code_ACT-3_has_value,0.0
+employment_type_Contractor_has_value,0.0
+num_delinquencies_2yrs_has_value,0.0
+education_Bachelor_has_value,0.0
+education_Graduate_has_value,0.0
+employment_type_Self Employed_has_value,0.0

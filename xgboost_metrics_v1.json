@@ -1,0 +1,68 @@
+{
+  "model": "XGBoost",
+  "version": "v1",
+  "features": {
+    "total": 108,
+    "zero_importance": 5,
+    "near_zero_importance": 5
+  },
+  "hyperparameters": {
+    "objective": "binary:logistic",
+    "eval_metric": "auc",
+    "max_depth": 6.0,
+    "learning_rate": 0.1,
+    "n_estimators": 1000.0,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "min_child_weight": 1.0,
+    "gamma": 0.0,
+    "reg_alpha": 0.0,
+    "reg_lambda": 1.0,
+    "scale_pos_weight": 18.58650707290533,
+    "random_state": 42.0,
+    "n_jobs": -1.0,
+    "tree_method": "hist"
+  },
+  "performance": {
+    "train_auc": 0.8646560813996473,
+    "test_auc": 0.7900397108280308,
+    "cv_auc_mean": 0.797250262858235,
+    "cv_auc_std": 0.007740389308736882,
+    "cv_auc_min": 0.7907618400452021,
+    "cv_auc_max": 0.8098233278020314,
+    "overfit_gap": 0.07461637057161652
+  },
+  "training": {
+    "cv_time_seconds": 278.64056181907654,
+    "train_time_seconds": 44.07810735702515,
+    "best_iteration": 25
+  },
+  "cv_fold_results": [
+    {
+      "fold": 1,
+      "auc": 0.8098233278020314,
+      "best_iteration": 16
+    },
+    {
+      "fold": 2,
+      "auc": 0.7919835420446993,
+      "best_iteration": 36
+    },
+    {
+      "fold": 3,
+      "auc": 0.7907618400452021,
+      "best_iteration": 37
+    },
+    {
+      "fold": 4,
+      "auc": 0.7908699667206802,
+      "best_iteration": 35
+    },
+    {
+      "fold": 5,
+      "auc": 0.802812637678562,
+      "best_iteration": 26
+    }
+  ],
+  "timestamp": "2025-11-15 12:42:49"
+}

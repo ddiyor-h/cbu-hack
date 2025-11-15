@@ -1,0 +1,26 @@
+{
+  "dataset_size": {
+    "train": 72000,
+    "test": 17999,
+    "features": 108
+  },
+  "class_balance": {
+    "default_rate_train": 0.051055555555555555,
+    "default_rate_test": 0.05100283349074949,
+    "imbalance_ratio": 18.586507072905334
+  },
+  "feature_types": {
+    "numeric": 108,
+    "categorical": 0
+  },
+  "data_quality": {
+    "features_with_missing": 0,
+    "high_skew_features": 17,
+    "low_variance_features": 4,
+    "high_zeros_features": 44
+  },
+  "potential_improvements": {
+    "interaction_candidates": 24,
+    "high_separation_features": 5
+  }
+}

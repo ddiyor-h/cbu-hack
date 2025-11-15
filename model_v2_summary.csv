@@ -1,0 +1,7 @@
+Metric,Value
+Features Count,65
+Test AUC,0.7889
+Test GINI,0.5779
+Cross-Val AUC (mean),0.7966
+Cross-Val AUC (std),0.0091
+Cross-Val GINI (mean),0.5931

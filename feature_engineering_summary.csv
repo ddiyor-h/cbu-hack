@@ -1,0 +1,2 @@
+Total features,Engineered features,Original features,Feature categories,Best CV AUC,Baseline AUC,AUC improvement,Improvement percentage,Training AUC,Overfitting gap,GINI coefficient,Target achieved
+164,65,99,7,0.8046756764358249,0.7889,0.015775676435824892,1.9997054678444532,0.8586907611967787,0.0540150847609537,0.6093513528716499,YES

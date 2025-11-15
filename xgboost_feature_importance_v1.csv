@@ -1,0 +1,109 @@
+feature,importance
+credit_score,0.051570036
+income_vs_regional,0.041144412
+monthly_income,0.038171116
+debt_service_coverage,0.029391363
+annual_income,0.02797529
+age,0.026621677
+payment_burden,0.024766654
+debt_service_ratio,0.019365309
+loan_purpose_Home Purchase,0.016875597
+payment_to_income_ratio,0.015250347
+age_group_36-45,0.014303148
+employment_stability_short,0.013292554
+age_group_46-55,0.01280843
+total_debt_to_income,0.011753974
+num_public_records,0.010990588
+num_delinquencies_2yrs,0.010763998
+employment_type_Part Time,0.010708447
+num_credit_accounts,0.010553745
+education_Some College,0.010341954
+marital_status_Single,0.0102745015
+loan_type_freq,0.010229247
+account_status_code_ACT-2,0.0101911975
+credit_utilization,0.009995182
+regional_unemployment_rate,0.009787159
+total_debt_amount,0.009767758
+employment_type_Self Employed,0.009708019
+combined_risk_score,0.009627723
+loan_amount,0.009571668
+annual_debt_payment,0.009246856
+monthly_free_cash_flow_freq,0.008739872
+application_time_of_day_morning,0.008738586
+cost_of_living_index,0.008712924
+loan_purpose_Major Purchase,0.008692511
+application_id,0.008638113
+credit_capacity,0.008604444
+revolving_to_income,0.0085790325
+oldest_credit_line_age,0.008362674
+monthly_payment,0.00828335
+available_credit,0.008250181
+housing_price_index,0.008238566
+num_collections,0.008233335
+employment_type_Contractor,0.008184187
+paperless_billing,0.007990093
+referral_code_freq,0.007948558
+has_mobile_app,0.007898118
+loan_to_annual_income,0.007893313
+revolving_balance,0.007828025
+employment_stability_medium,0.007797904
+available_credit_after_loan,0.0077885767
+education_Graduate,0.0077067157
+debt_to_income_ratio,0.0076815356
+total_credit_limit,0.007653837
+num_customer_service_calls,0.007579057
+interest_rate,0.0075705284
+loan_officer_id,0.0074158665
+employment_type_Full Time,0.007390312
+account_diversity_index,0.0073861717
+employment_type_Ft,0.007373088
+previous_zip_code,0.00733839
+num_inquiries_6mo,0.007326155
+marketing_campaign_freq,0.007318872
+oldest_account_age_months,0.0072560087
+regional_median_rent,0.0071720723
+loan_to_value_ratio,0.0071545225
+origination_channel_Online,0.007127861
+origination_channel_Broker,0.0070641027
+num_login_sessions,0.0070602
+application_day_of_week,0.0070269313
+logins_per_year,0.00697691
+income_per_dependent,0.006967453
+credit_usage_amount_freq,0.006881077
+existing_monthly_debt,0.0068416917
+service_calls_per_year,0.0068306914
+employment_type_Self Emp,0.0068212706
+num_dependents,0.006778843
+regional_median_income,0.0067588235
+preferred_contact_Phone,0.006755834
+employment_length,0.0066715665
+application_hour,0.0065594516
+account_age_years,0.006528103
+customer_ref,0.0064594685
+state_freq,0.0064066933
+loan_term,0.006332902
+account_open_year,0.0063207163
+account_status_code_ACT-3,0.006291804
+loan_purpose_Other,0.0060961065
+account_status_code_ACT-1,0.0060019232
+loan_purpose_Refinance,0.005990742
+origination_channel_Direct Mail,0.0057189213
+total_monthly_debt_payment_freq,0.0055735027
+loan_purpose_Medical,0.0055061462
+application_time_of_day_evening,0.0054196543
+employment_type_Pt,0.005325577
+recent_inquiry_count,0.0051127854
+application_time_of_day_night,0.004960053
+age_group_26-35,0.004528364
+employment_type_Fulltime,0.0043897876
+education_High School,0.004302273
+account_status_code_ACTIVE,0.0042973114
+marital_status_Married,0.0037592542
+loan_purpose_Home Improvement,0.003642021
+credit_util_category_medium,0.0034669784
+education_Bachelor,0.0026728134
+preferred_contact_Mail,0.0
+credit_util_category_low,0.0
+loan_purpose_Revolving Credit,0.0
+employment_stability_new,0.0
+age_group_55+,0.0

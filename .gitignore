@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (exclude large datasets)
+*.zip
+final_dataset_clean.csv
+final_dataset_imputed.csv
+train_full.csv
+test_full.csv
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+
+# Keep parquet files as they're smaller
+# But exclude very large ones if needed
+X_train_engineered.parquet
+X_train_scaled.parquet
+
+# Model files (large binary files)
+*.cbm
+xgboost_model_*.json
+
+# Raw data directory
+drive-download-20251115T045945Z-1-001/
+drive-download-20251115T045945Z-1-001.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CatBoost
+catboost_info/
+
+# Large prediction files
+xgboost_predictions_v1.csv
+predictions_catboost_iter3.csv
+test_predictions_*.csv
+
+# Keep only essential files for reproducibility
