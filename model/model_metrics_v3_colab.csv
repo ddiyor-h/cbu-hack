@@ -1,0 +1,2 @@
+train_auc,test_auc,oof_auc,train_test_gap,optimal_threshold,n_trials,n_cv_folds,n_ensemble_models
+0.8554004728171932,0.8072023404582112,0.7985817176820965,0.04819813235898207,0.05357142857142857,30,5,3
